@@ -29,15 +29,17 @@ The primary outcome is the determination of the **Symmetrical Interrupting MVA R
 ## Repository Contents
 
 -   `FDLF_Analysis.m`: MATLAB script for FDLF Load Flow and Fault Analysis.
--   `NewtonRaphson_Analysis.m`: MATLAB script for Newton-Raphson Load Flow and Fault Analysis.
--   `GaussSeidel_Analysis.m`: MATLAB script for Gauss-Seidel Load Flow and Fault Analysis.
+-   `Newton.m`: MATLAB script for Newton-Raphson Load Flow and Fault Analysis.
+-   `Gauss.m`: MATLAB script for Gauss-Seidel Load Flow and Fault Analysis.
 -   `PowerSystemAnalyzerGUI.mlapp`: The MATLAB App Designer file for the graphical user interface.
 -   `/Data_Files/`: This directory contains the Excel data files for the test systems.
     -   `IEEE_5.xlsx`
     -   `IEEE_9.xlsx`
 -   `/Project_Report/`: This directory contains the final project report and presentation.
     -   `Project_Report.pdf`
-    -   `Project_Presentation.pptx`
+-   `/GUI1/`: Matlab GUI first version. Inside all necessary files are given.
+-   `/GUI2/`: Matlab GUI Second version. Inside all necessary files are given.
+-   `/GUI3/`: Matlab GUI third version. Inside all necessary files are given.
 -   `README.md`: This file.
 
 ## How to Use
